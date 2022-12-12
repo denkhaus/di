@@ -1,4 +1,4 @@
-module github.com/denkhaus/di
+module git-server/di
 
 go 1.18
 
