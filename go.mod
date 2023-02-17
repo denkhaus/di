@@ -1,4 +1,4 @@
-module gitserver.local/di
+module git-server/di
 
 go 1.18
 
