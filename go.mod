@@ -1,4 +1,4 @@
-module git-server/di
+module git.mirtuell.net/denkhaus/di
 
 go 1.18
 
