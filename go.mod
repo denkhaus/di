@@ -1,4 +1,4 @@
-module git.mirtuell.net/denkhaus/di
+module github.com/denkhaus/di
 
 go 1.22
 
