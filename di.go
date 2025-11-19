@@ -1,14 +1,12 @@
 package di
 
 import (
-	"github.com/samber/do"
+	"github.com/samber/do/v2"
 )
 
-var (
-	injector *do.Injector
-)
+var injector do.Injector
 
-func Injector() *do.Injector {
+func Injector() do.Injector {
 	if injector == nil {
 		injector = do.New()
 	}
